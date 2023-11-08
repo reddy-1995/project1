@@ -15,6 +15,7 @@
 	<name>JtSpringProject</name>
 	<description>Spring project for Java Technology</description>
 	<properties>
+				<java.version>11</java.version>
 	</properties>
 	<dependencies>
 
